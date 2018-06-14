@@ -88,7 +88,7 @@ namespace Clash_of_the_Titans
             while (fighter1.Health > 0 && fighter2.Health > 0)
             {                
 
-                System.Threading.Thread.Sleep(100);
+                
                 //Ход первого
                 if (((fighter1.Name.Equals("Monk") && MonkArmor % 9 == 0) || fighter1.Name.Equals("Knight") && KnightArmor % 5 == 0))
                 {                
@@ -107,7 +107,7 @@ namespace Clash_of_the_Titans
                     fighter1.Health -= fighter2.DamageDo() - fighter1.Defense();
                 }
                 
-                System.Threading.Thread.Sleep(100);
+                System.Threading.Thread.Sleep(600);
                 //Ход второго
                 if ((fighter2.Name.Equals("Monk") && MonkArmor % 9 == 0) || (fighter2.Name.Equals("Knight") && KnightArmor % 5 == 0))
                 {
@@ -125,6 +125,7 @@ namespace Clash_of_the_Titans
                     }
                     fighter2.Health -= fighter1.DamageDo() - fighter2.Defense(); 
                 }
+                System.Threading.Thread.Sleep(600);
                 MonkArmor += 3;
                 KnightArmor++;
             }

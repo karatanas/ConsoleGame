@@ -5,3 +5,10 @@ C:\Users\kkara\source\repos\Clash of the Titans\Clash of the Titans\obj\Debug\Cl
 C:\Users\kkara\source\repos\Clash of the Titans\Clash of the Titans\obj\Debug\Clash of the Titans.csproj.CoreCompileInputs.cache
 C:\Users\kkara\source\repos\Clash of the Titans\Clash of the Titans\obj\Debug\Clash of the Titans.exe
 C:\Users\kkara\source\repos\Clash of the Titans\Clash of the Titans\obj\Debug\Clash of the Titans.pdb
+F:\Projects\C#\Titans\Clash of the Titans\bin\Debug\Clash of the Titans.exe.config
+F:\Projects\C#\Titans\Clash of the Titans\bin\Debug\Clash of the Titans.exe
+F:\Projects\C#\Titans\Clash of the Titans\bin\Debug\Clash of the Titans.pdb
+F:\Projects\C#\Titans\Clash of the Titans\obj\Debug\Clash of the Titans.csprojResolveAssemblyReference.cache
+F:\Projects\C#\Titans\Clash of the Titans\obj\Debug\Clash of the Titans.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Titans\Clash of the Titans\obj\Debug\Clash of the Titans.exe
+F:\Projects\C#\Titans\Clash of the Titans\obj\Debug\Clash of the Titans.pdb
